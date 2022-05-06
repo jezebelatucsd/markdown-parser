@@ -5,8 +5,6 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.io.IOException;
 
-//hello
-
 public class MarkdownParseTest {
 
     @Test
