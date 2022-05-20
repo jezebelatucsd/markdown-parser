@@ -6,7 +6,11 @@ import java.util.ArrayList;
 import java.io.IOException;
 
 public class MarkdownParseTest {
+<<<<<<< HEAD
+    
+=======
 //added for lab
+>>>>>>> 6a676d7322ad70b152e9b14d8f7deb202dc37584
     @Test
     public void addition() {
         assertEquals(2, 1 + 1);
